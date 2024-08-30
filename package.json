@@ -1,5 +1,5 @@
 {
-  "name": "agar.io-clone",
+  "name": "@haihongtran/agar.io-clone",
   "version": "1.0.0",
   "description": "A simple Agar.io clone",
   "main": "server/server.js",
@@ -9,10 +9,7 @@
     "watch": "gulp watch",
     "test": "gulp test"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/owenashurst/agar.io-clone.git"
-  },
+  "repository": "https://github.com/haihongtran/agar.io-clone",
   "author": "Huy Tran",
   "maintainers": [
     {
